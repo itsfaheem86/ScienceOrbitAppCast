@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>A New Version of Science Orbit Available!</title>
+        <title>Science Orbit</title>
         <item>
             <title>Version 1.0.12</title>
             <description>UI/UX Enhancement with some bug fixes</description>
