@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>A New Version of Science Orbit Available!</title>
+        <item>
+            <title>Version 1.0.12</title>
+            <description>UI/UX Enhancement with some bug fixes</description>
+            <pubDate>Sun, 26 Sep 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.freedom.science_orbit" sparkle:version="1.0.12" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
