@@ -27,5 +27,11 @@
             <pubDate>Sun, 02 Oct 2021 04:59:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.freedom.science_orbit" sparkle:version="1.0.15" sparkle:os="android" />
         </item>
+        <item>
+            <title>1.2.1</title>
+            <description>Videos can be devided in to sections, Pdfs can have multiple links.</description>
+            <pubDate>Wed, 03 Nov 2021 22:23:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.freedom.science_orbit" sparkle:version="1.2.1" sparkle:os="android" />
+        </item>
     </channel>
 </rss>
